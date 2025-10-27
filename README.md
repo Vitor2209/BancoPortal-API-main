@@ -96,9 +96,3 @@ We welcome and encourage developers to contribute to the project and help us mak
    ```sh
    git push origin feature/your-new-feature
    ```
-
-👉🏻**Create a Pull Request**: Go to your forked repository on GitHub, and you'll see a "Compare & Pull Request" button. Click on it to create a new pull request.
-
-👉🏻**Wait for Review**: Your pull request will be reviewed by the project maintainers. Make any necessary changes based on their feedback.
-
-**👏🏻👏🏻 Congratulations! 🎉🎊** Your contribution has been accepted and merged into the main repository. You are now a contributor to the project.
